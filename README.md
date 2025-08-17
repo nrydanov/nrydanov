@@ -1,4 +1,5 @@
-## About me
+### 🌐 Socials & Contacts
+
 [![Gmail Badge](https://img.shields.io/badge/-nrydanov-c14438?style=flat&logo=Gmail&logoColor=white&link=find.art.in.living@gmail.com)](mailto:find.art.in.living@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-nrydanov-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/nrydanov)](https://t.me/nrydanov)
 
