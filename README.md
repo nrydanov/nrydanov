@@ -34,7 +34,7 @@ Hello 👋 I'm Software Engineer and AI researcher with 3 years of experience wo
 
 - **M.S. in Mathematical Support and Administration of Information Systems, Saratov State University (2025)**: News-to-narrative transformation system
 
-- **B.S. in Software Engineering, Saratov State University (2023)**: Digital sound processing using Short-Time Fourier Transform
+- **B.S. in Software Engineering, Saratov State University (2023)**: [Digital sound processing using Short-Time Fourier Transform](https://github.com/nrydanov/deep-learning-dsp)
 
 
 Also, my academic experience involves:
