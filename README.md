@@ -44,8 +44,8 @@ Also, my academic experience involves:
 One of my primary directions beyond programming is education. I do believe that education should have more attention, especially in such strange time of our lives.
 
 - Participant of **Google Developer Student Clubs** program, ex-leader of Campus at Saratov State University
-- **Developer Student Clubs** leader at Saratov State University
-- **Yandex Teaching Assistant** program participant
+- [**Developer Student Clubs**](https://dsc.alivetech.org) leader at Saratov State University
+- [**Yandex Teaching Assistant**](https://education.yandex.ru/teaching-assistants) program participant
 
 
 
