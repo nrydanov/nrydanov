@@ -3,7 +3,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-nrydanov-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/nrydanov)](https://t.me/nrydanov)
 
 ### 💻 Experience
-Hello 👋 I'm Software Engineer and AI researcher with 3 years of experience working in **Mirantis** and **ORB Intelligence** (business data mining).
 
 **Preferred languages**
 
