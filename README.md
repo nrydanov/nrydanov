@@ -22,6 +22,7 @@ Hello 👋 I'm Software Engineer and AI researcher with 3 years of experience wo
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6600?style=flat&logo=clickhouse&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169e1?style=flat&logo=postgresql&logoColor=white)
 
 **Open Source**
 
