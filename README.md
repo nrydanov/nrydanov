@@ -4,6 +4,8 @@
 
 ### 💻 Experience
 
+Hello 👋 I'm Software Engineer and AI researcher with 3 years of experience working in **Mirantis** and **ORB Intelligence** (business data mining).
+
 **Preferred languages**
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
