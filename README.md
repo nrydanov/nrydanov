@@ -21,8 +21,9 @@ Hello 👋 I'm Software Engineer and AI researcher with 3 years of experience wo
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6600?style=flat&logo=clickhouse&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FCFF74?style=flat&logo=clickhouse&logoColor=black)
 ![Postgres](https://img.shields.io/badge/Postgres-4169e1?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 **Open Source**
 
