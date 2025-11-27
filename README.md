@@ -5,7 +5,7 @@
 
 ### 💻 Experience
 
-Hello 👋 I'm Software Engineer and AI researcher with 3 years of experience working in **Mirantis** and **ORB Intelligence** (business data mining).
+Hello 👋 I'm Software Engineer and AI researcher with more than 4 years of experience working in **Mirantis** and **ORB Intelligence** (business data mining).
 
 **Preferred languages**
 
