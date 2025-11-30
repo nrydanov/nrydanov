@@ -29,7 +29,7 @@ Hello 👋 I'm Software Engineer and AI researcher with more than 4 years of exp
 
 [![OpenKilda](https://img.shields.io/badge/OpenKilda-Contributor-blue)](https://github.com/telstra/open-kilda/pulls?q=is%3Apr+author%3Anrydanov+is%3Aclosed)
 [![Barash](https://img.shields.io/badge/Barash-Maintainer-blue)](https://github.com/kiltia/barash)
-[![Panoptica](https://img.shields.io/badge/Barash-Maintainer-blue)](https://github.com/kiltia/panoptica)
+[![Panoptica](https://img.shields.io/badge/Panoptica-Maintainer-blue)](https://github.com/kiltia/panoptica)
 [![MergeMinds](https://img.shields.io/badge/MergeMinds-Maintainer-blue)](https://github.com/MergeMinds/mm-backend-go)
 
 
