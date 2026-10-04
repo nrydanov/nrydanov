@@ -2,6 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-nrydanov-c14438?style=flat&logo=Gmail&logoColor=white&link=find.art.in.living@gmail.com)](mailto:find.art.in.living@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-nrydanov-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/nrydanov)](https://t.me/nrydanov)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-nrydanov-0A66C2?style=flat&link=https://www.linkedin.com/in/nrydanov)](https://www.linkedin.com/in/nrydanov)
+[![Bluesky Badge](https://img.shields.io/badge/-nrydanov-0285FF?style=flat&logo=bluesky&logoColor=white&link=https://bsky.app/profile/nrydanov.alivetech.org)](https://bsky.app/profile/nrydanov.alivetech.org)
 
 ### 💻 Experience
 
@@ -29,8 +31,10 @@ Hello 👋 I'm Software Engineer and AI researcher with more than 4 years of exp
 **Open Source**
 
 [![OpenKilda](https://img.shields.io/badge/OpenKilda-Contributor-blue)](https://github.com/telstra/open-kilda/pulls?q=is%3Apr+author%3Anrydanov+is%3Aclosed)
-[![Barash](https://img.shields.io/badge/Barash-Maintainer-blue)](https://github.com/kiltia/barash)
-[![Panoptica](https://img.shields.io/badge/Panoptica-Maintainer-blue)](https://github.com/kiltia/panoptica)
+[![Anytype](https://img.shields.io/badge/Anytype-Contributor-blue)](https://github.com/anyproto/anytype-ts/pulls?q=is%3Apr+author%3Anrydanov)
+[![Calino](https://img.shields.io/badge/Calino-Contributor-blue)](https://github.com/Ivan-Malinovski/calino/pulls?q=is%3Apr+author%3Anrydanov)
+[![Barash](https://img.shields.io/badge/Barash-Contributor-blue)](https://github.com/kiltia/barash)
+[![Panoptica](https://img.shields.io/badge/Panoptica-Contributor-blue)](https://github.com/kiltia/panoptica)
 [![MergeMinds](https://img.shields.io/badge/MergeMinds-Maintainer-blue)](https://github.com/MergeMinds/mm-backend-go)
 
 
