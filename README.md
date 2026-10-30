@@ -7,29 +7,30 @@
 
 ### 💻 Experience
 
-Hello 👋 I'm Software Engineer and AI researcher with more than 4 years of experience working in **Mirantis** and **ORB Intelligence** (business data mining).
+Software developer with an academic background and 4+ years of experience at **Mirantis**, **ORB Intelligence**, and **Picodata**. I work with distributed systems, supervise student projects, and contribute to Saratov's academic and professional community.
 
 **Preferred languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
-**Known technologies**
+**Experience with**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Tarantool](https://img.shields.io/badge/Tarantool-FFCE00?style=flat&logoColor=black)
+![Picodata](https://img.shields.io/badge/Picodata-4B63D3?style=flat&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FCFF74?style=flat&logo=clickhouse&logoColor=black)
 ![Postgres](https://img.shields.io/badge/Postgres-4169e1?style=flat&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 **Open Source**
 
+[![Teleport](https://img.shields.io/badge/Teleport-Maintainer%20%26%20Co--author-blue)](https://github.com/bespoke-org/Teleport)
+[![incognito.nvim](https://img.shields.io/badge/incognito.nvim-Author%20%26%20Maintainer-blue)](https://github.com/nrydanov/incognito.nvim)
 [![OpenKilda](https://img.shields.io/badge/OpenKilda-Contributor-blue)](https://github.com/telstra/open-kilda/pulls?q=is%3Apr+author%3Anrydanov+is%3Aclosed)
 [![Anytype](https://img.shields.io/badge/Anytype-Contributor-blue)](https://github.com/anyproto/anytype-ts/pulls?q=is%3Apr+author%3Anrydanov)
 [![Calino](https://img.shields.io/badge/Calino-Contributor-blue)](https://github.com/Ivan-Malinovski/calino/pulls?q=is%3Apr+author%3Anrydanov)
@@ -39,6 +40,8 @@ Hello 👋 I'm Software Engineer and AI researcher with more than 4 years of exp
 
 
 ### 🎓 Education & Research
+
+- **Postgraduate studies**, Saratov State University (2025–Present): High-performance computing and mathematical modeling of nonlinear dynamical systems.
 
 - **M.S. in Mathematical Support and Administration of Information Systems, Saratov State University (2025)**: News-to-narrative transformation system
 
