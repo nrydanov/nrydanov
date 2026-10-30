@@ -30,7 +30,7 @@ Software developer with an academic background and 4+ years of experience at **M
 
 **Open Source**
 
-[![Teleport](https://img.shields.io/badge/Teleport-Maintainer%20%26%20Co--author-blue)](https://github.com/bespoke-org/Teleport)
+[![Teleport](https://img.shields.io/badge/Teleport-Co--author%20%26%20Maintainer-blue)](https://github.com/bespoke-org/Teleport)
 [![incognito.nvim](https://img.shields.io/badge/incognito.nvim-Author%20%26%20Maintainer-blue)](https://github.com/nrydanov/incognito.nvim)
 [![Anytype](https://img.shields.io/badge/Anytype-Contributor-blue)](https://github.com/anyproto/anytype-ts/pulls?q=is%3Apr+author%3Anrydanov)
 [![MergeMinds](https://img.shields.io/badge/MergeMinds-Maintainer-blue)](https://github.com/MergeMinds/mm-backend-go)
