@@ -1,5 +1,6 @@
 ### 🌐 Socials & Contacts
 
+[![Website](https://img.shields.io/badge/Website-nrydanov.me-222?style=flat&logo=firefoxbrowser&logoColor=white)](https://nrydanov.me)
 [![LinkedIn Badge](https://img.shields.io/badge/-nrydanov-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&link=https://www.linkedin.com/in/nikita-rydanov-7759863b9)](https://www.linkedin.com/in/nikita-rydanov-7759863b9)
 [![Bluesky Badge](https://img.shields.io/badge/-nrydanov-0285FF?style=flat&logo=bluesky&logoColor=white&link=https://bsky.app/profile/nrydanov.me)](https://bsky.app/profile/nrydanov.me)
 [![Gmail Badge](https://img.shields.io/badge/-nrydanov-c14438?style=flat&logo=Gmail&logoColor=white&link=find.art.in.living@gmail.com)](mailto:find.art.in.living@gmail.com)
@@ -16,7 +17,7 @@ Software developer with an academic background and 4+ years of experience at **M
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
-**Experience with**
+**Worked with**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -31,12 +32,12 @@ Software developer with an academic background and 4+ years of experience at **M
 
 [![Teleport](https://img.shields.io/badge/Teleport-Maintainer%20%26%20Co--author-blue)](https://github.com/bespoke-org/Teleport)
 [![incognito.nvim](https://img.shields.io/badge/incognito.nvim-Author%20%26%20Maintainer-blue)](https://github.com/nrydanov/incognito.nvim)
-[![OpenKilda](https://img.shields.io/badge/OpenKilda-Contributor-blue)](https://github.com/telstra/open-kilda/pulls?q=is%3Apr+author%3Anrydanov+is%3Aclosed)
 [![Anytype](https://img.shields.io/badge/Anytype-Contributor-blue)](https://github.com/anyproto/anytype-ts/pulls?q=is%3Apr+author%3Anrydanov)
+[![MergeMinds](https://img.shields.io/badge/MergeMinds-Maintainer-blue)](https://github.com/MergeMinds/mm-backend-go)
+[![OpenKilda](https://img.shields.io/badge/OpenKilda-Contributor-blue)](https://github.com/telstra/open-kilda/pulls?q=is%3Apr+author%3Anrydanov+is%3Aclosed)
 [![Calino](https://img.shields.io/badge/Calino-Contributor-blue)](https://github.com/Ivan-Malinovski/calino/pulls?q=is%3Apr+author%3Anrydanov)
 [![Barash](https://img.shields.io/badge/Barash-Contributor-blue)](https://github.com/kiltia/barash)
 [![Panoptica](https://img.shields.io/badge/Panoptica-Contributor-blue)](https://github.com/kiltia/panoptica)
-[![MergeMinds](https://img.shields.io/badge/MergeMinds-Maintainer-blue)](https://github.com/MergeMinds/mm-backend-go)
 
 
 ### 🎓 Education & Research
@@ -46,7 +47,6 @@ Software developer with an academic background and 4+ years of experience at **M
 - **M.S. in Mathematical Support and Administration of Information Systems, Saratov State University (2025)**: News-to-narrative transformation system
 
 - **B.S. in Software Engineering, Saratov State University (2023)**: [Digital sound processing using Deep Learning](https://github.com/nrydanov/deep-learning-dsp)
-
 
 Also, my academic experience involves:
 - Research in JIT-compilation (LLVM) performance comparing to classic interpretation methods
@@ -59,7 +59,3 @@ One of my primary directions beyond programming is education. I do believe that 
 - Participant of **Google Developer Student Clubs** program, ex-leader of Campus at Saratov State University
 - [**Developer Student Clubs**](https://dsc.alivetech.org) leader at Saratov State University
 - [**Yandex Teaching Assistant**](https://education.yandex.ru/teaching-assistants) program participant
-
-
-
-
